@@ -1,5 +1,5 @@
 <h1>About</h1>
-This project is an entry to the Onyx Data Challenge.
+This project is an entry to the Onyx Data Challenge - February 2024.
 <h1>Dataset</h1>
 The dataset used for the Electronics Product Data Ratings is provided by <a href='https://www.linkedin.com/company/onyxdata/'>Onyx Data</a> for the DataDNA Challenge.
 <h2>Features</h2>
